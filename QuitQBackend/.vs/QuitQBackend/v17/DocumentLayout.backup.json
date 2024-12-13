@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CaseStudyBackend\\QuitQBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33D70CCC-5EDA-4D24-9FE4-1F0090785C92}|QuitQBackend.csproj|d:\\casestudybackend\\quitqbackend\\migrations\\quitq\\20241128154948_addaddressidtoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D70CCC-5EDA-4D24-9FE4-1F0090785C92}|QuitQBackend.csproj|solutionrelative:migrations\\quitq\\20241128154948_addaddressidtoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D70CCC-5EDA-4D24-9FE4-1F0090785C92}|QuitQBackend.csproj|d:\\casestudybackend\\quitqbackend\\migrations\\quitq\\quitqcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D70CCC-5EDA-4D24-9FE4-1F0090785C92}|QuitQBackend.csproj|solutionrelative:migrations\\quitq\\quitqcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D70CCC-5EDA-4D24-9FE4-1F0090785C92}|QuitQBackend.csproj|d:\\casestudybackend\\quitqbackend\\data\\quitqcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D70CCC-5EDA-4D24-9FE4-1F0090785C92}|QuitQBackend.csproj|solutionrelative:data\\quitqcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D70CCC-5EDA-4D24-9FE4-1F0090785C92}|QuitQBackend.csproj|d:\\casestudybackend\\quitqbackend\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D70CCC-5EDA-4D24-9FE4-1F0090785C92}|QuitQBackend.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D70CCC-5EDA-4D24-9FE4-1F0090785C92}|QuitQBackend.csproj|d:\\casestudybackend\\quitqbackend\\models\\deliveryaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D70CCC-5EDA-4D24-9FE4-1F0090785C92}|QuitQBackend.csproj|solutionrelative:models\\deliveryaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D70CCC-5EDA-4D24-9FE4-1F0090785C92}|QuitQBackend.csproj|d:\\casestudybackend\\quitqbackend\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D70CCC-5EDA-4D24-9FE4-1F0090785C92}|QuitQBackend.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuitQContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\CaseStudyBackend\\QuitQBackend\\Migrations\\QuitQ\\QuitQContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\QuitQ\\QuitQContextModelSnapshot.cs",
+              "ToolTip": "D:\\CaseStudyBackend\\QuitQBackend\\Migrations\\QuitQ\\QuitQContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\QuitQ\\QuitQContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:52:36.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241128154948_AddAddressIdToOrder.cs",
+              "DocumentMoniker": "D:\\CaseStudyBackend\\QuitQBackend\\Migrations\\QuitQ\\20241128154948_AddAddressIdToOrder.cs",
+              "RelativeDocumentMoniker": "Migrations\\QuitQ\\20241128154948_AddAddressIdToOrder.cs",
+              "ToolTip": "D:\\CaseStudyBackend\\QuitQBackend\\Migrations\\QuitQ\\20241128154948_AddAddressIdToOrder.cs",
+              "RelativeToolTip": "Migrations\\QuitQ\\20241128154948_AddAddressIdToOrder.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:49:51.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\CaseStudyBackend\\QuitQBackend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\CaseStudyBackend\\QuitQBackend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:49:29.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuitQContext.cs",
+              "DocumentMoniker": "D:\\CaseStudyBackend\\QuitQBackend\\Data\\QuitQContext.cs",
+              "RelativeDocumentMoniker": "Data\\QuitQContext.cs",
+              "ToolTip": "D:\\CaseStudyBackend\\QuitQBackend\\Data\\QuitQContext.cs",
+              "RelativeToolTip": "Data\\QuitQContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:49:23.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeliveryAddress.cs",
+              "DocumentMoniker": "D:\\CaseStudyBackend\\QuitQBackend\\Models\\DeliveryAddress.cs",
+              "RelativeDocumentMoniker": "Models\\DeliveryAddress.cs",
+              "ToolTip": "D:\\CaseStudyBackend\\QuitQBackend\\Models\\DeliveryAddress.cs",
+              "RelativeToolTip": "Models\\DeliveryAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:43:33.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7b3eb750-0ca7-4a08-b0a7-b48c654b741c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\CaseStudyBackend\\QuitQBackend\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\CaseStudyBackend\\QuitQBackend\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:41:59.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
